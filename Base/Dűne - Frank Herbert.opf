@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">504</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bc7ff710-81bc-40b0-b68b-e4e49eca380f</dc:identifier>
+        <dc:title>Dűne</dc:title>
+        <dc:creator opf:file-as="Herbert, Frank" opf:role="aut">Frank Herbert</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-27T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Az ​univerzum legfontosabb terméke a fűszer, amely meghosszabbítja az életet, lehetővé teszi az űrutazást, és élő számítógépet csinál az emberből. Az emberlakta világokat uraló Impériumban azé a hatalom, aki a fűszert birtokolja. A Padisah Császár, a bolygókat uraló Nagy Házak, az Űrliga és a titokzatos rend, a Bene Gesserit kényes hatalmi egyensúlyának, a civilizáció egészének záloga, hogy a fűszerből nem lehet hiány. Ám ez az anyag csak egy helyen található, a sivatagos, kegyetlen Arrakison, amelyet lakói, a vad fremenek csak úgy ismernek: Dűne.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;Frank Herbert legendás regénye, amely megjelenésekor elnyerte a Hugo- és a Nebula-díjat, talán a legjobb science fiction, amit valaha írtak. A Dűne hatása ma már felfoghatatlan, az elmúlt fél évszázadban olvasók milliói fedezték fel az Arrakis világának részletességét, a szöveg szépségét és a könyvben rejlő filozófiát, társadalmi és vallási gondolatokat. Herbert lehengerlő és eleven története most átdolgozott kiadásban kerül újra az olvasók elé.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;„A modern science fiction egyik alapköve."&lt;/p&gt;
+&lt;p&gt;Chicago Tribune&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>GABO Kiadó</dc:publisher>
+        <dc:language>hun</dc:language>
+        <meta name="calibre:series" content="Dűne"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2026-05-17T06:13:42.269526+00:00"/>
+        <meta name="calibre:title_sort" content="Dűne"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Dűne - Frank Herbert.jpg"/>
+    </guide>
+</package>

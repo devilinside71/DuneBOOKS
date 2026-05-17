@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">517</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2feba2db-f3f1-4f92-aed4-29854ce0504c</dc:identifier>
+        <dc:title>A Dűne Káptalanház</dc:title>
+        <dc:creator opf:file-as="Herbert, Frank" opf:role="aut">Frank Herbert</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-18T22:00:00+00:00</dc:date>
+        <dc:description>Frank Herbert utolsó befejezett regénye, a Dűne-sorozat hatodik kötete folytatja az előző részben megismert szereplők történetét. Miközben szemtanúi vagyunk, hogyan csap össze két hatalmas erő, jobban megérthetjük a politika, a vallás, a társadalmak, a civilizációk és mindenekelőtt az emberek működését, és azt, hogy a győzelem reményében olykor mindenen túl kell lépni.</dc:description>
+        <dc:publisher>Gabo Könyvkiadó</dc:publisher>
+        <dc:language>hun</dc:language>
+        <dc:subject>sci-fi</dc:subject>
+        <meta name="calibre:series" content="Dűne"/>
+        <meta name="calibre:series_index" content="6"/>
+        <meta name="calibre:timestamp" content="2026-05-17T06:13:42.684065+00:00"/>
+        <meta name="calibre:title_sort" content="Dűne Káptalanház, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Dűne Káptalanház, A - Frank Herbert.jpg"/>
+    </guide>
+</package>

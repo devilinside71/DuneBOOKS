@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">514</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">af8e4dc2-6de0-4dd6-99bb-4a3187cab1d1</dc:identifier>
+        <dc:title>A Dűne eretnekei</dc:title>
+        <dc:creator opf:file-as="Herbert, Frank" opf:role="aut">Frank Herbert</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-12-27T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Ezerötszáz évvel II. Leto, az Istencsászár bukása után az Impérium nincs többé, széthullása elhozta az Éhínséget és a Szétszóródást, amely során az emberiség tömegesen vándorolt ki eddig ismeretlen világok felé. Új társadalmak, új technológiák, új vallások jöttek létre, és a felemelkedő új birodalmak pedig most helyet követelnek maguknak a régi Impérium hatalmai között, és ha kell, akár erőszakkal is elfoglalják. &lt;/p&gt;
+&lt;p&gt;Talán csak az ősi Bene Gesserit rend képes szembeszállni az új hódítókkal. Miközben a Gammu nevű világon egy gyermek Duncan Idaho-gholát – a rég halott harcos klónját – nevelnek, hogy megfejtsenek egy több ezer éves titkot, a rend Tisztelendő Anyáinak más rejtélyekkel is szembe kell nézniük. Hogyan lehet megállítani a titokzatos tleilaxiakat, akik az emberiség többi részétől eltávolodva saját képükre kívánják formálni a világegyetemet? Ki az a fiatal lány, aki a hajdani Dűne sivatagában tűnt fel, és képes parancsolni a pusztaság óriás szörnyetegeinek, a homokférgeknek? És vajon II. Leto, akinek szétszórt tudata hosszú álmát alussza a homokférgekben, jövőbe látásával még mindig őrködik az Arany Ösvény fölött?A legendás Dűne-sorozat ötödik kötetében az emberiséget uraló régi és új hatalmak csapnak össze, hogy eldöntsék, milyen irányt vegyen a fejlődés, ősi erők vagy új gondolatok határozzák meg egy egész faj sorsát. Frank Herbert újra a világegyetemet mozgató kérdésekre keresi a választ, mint hogy mi a hit, mit tehet egy vezető a rábízott hatalommal, vagy, hogy honnan ered a hűség és a szeretet. A Dűne eretnekei méltó folytatása az elődeinek, egyedi és utánozhatatlan élmény minden olvasó számára.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>GABO</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">0583b7b8-5629-4070-ae33-8faa49199f8e</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9789635663439</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">doKjEAAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">frank-herbert-a-dune-eretnekei</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Space Opera</dc:subject>
+        <meta name="calibre:series" content="Dűne"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2026-05-17T06:13:42.565021+00:00"/>
+        <meta name="calibre:title_sort" content="Dűne eretnekei, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Dűne eretnekei, A - Frank Herbert.jpg"/>
+    </guide>
+</package>

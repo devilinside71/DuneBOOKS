@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">518</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f3dab4b4-b41d-4218-b157-2771141a2093</dc:identifier>
+        <dc:title>A Dűne istencsászára</dc:title>
+        <dc:creator opf:file-as="Herbert, Frank" opf:role="aut">Frank Herbert</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-05-16T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-family: 'Rubik','Roboto','Helvetica Neue','Arial','Noto Sans','Liberation Sans','sans-serif'"&gt;&lt;span style="color: #292929; background-color: #ffffff"&gt;A Dűne sivatagjai, a hatalmas homokférgek és a vad fremenek már csupán legendák - az Arrakis zöldellő világ, a hatalmas Impérium élettel teli központja. Paul Muad-Dib fia, II. Leto, a homoksügérekkel szimbiózisba lépett, jövőbe látó Istencsászár immár három és félezer éve uralkodik az emberiségen. Leto Békéje soha nem ismert stabilitást hozott, megszüntetve a nyomort és a háborúkat. Ám ennek a békének ára van. Leto vasmarokkal igazgatja birodalmát. Hogy elérje célját, és végigvezesse az emberiséget az Arany Ösvényen, zsarnoki elnyomást teremt. Félelmetes amazonokból álló serege a világegyetem minden zugába elviszi a megtestesült Isten parancsait, fűszer fölötti monopóliuma pedig engedelmességre kényszeríti a csillagközi utazást biztosító Űrligát, a Bene Gesserit rendet, a fejlett gépekkel kísérletező ixieket és az emberi testet megcsúfoló tleilaxiakat. Több évezrednyi uralom után azonban egyre közeledik a nap, amikor talán valaki sikeresen ledönti a zsarnok Atreidest a trónjáról. De ki lehet játszani magát a mindent látó Istent? A klasszikus Dűne-sorozat negyedik kötetében Frank Herbert egy megváltozott univerzumba vezeti be olvasóit, ám a regényében feldolgozott témák ugyanazok, mint korábban: mi az uralom lényege, hogyan működik a vallás, és miként válik átokká a jövőbe látás áldása. A Dűne Istencsászára a zsarnoki II. Leto története, aki egyszerre elnyomó és áldozat, hosszú uralma alatt pedig bepillantást nyújt az emberiséget mozgató legalapvetőbb törvényszerűségekbe&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>GABO</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789635667307</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">frank-herbert-a-dune-istencsaszara</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>sci-fi</dc:subject>
+        <dc:subject>amerikai szerző</dc:subject>
+        <dc:subject>cli-fi</dc:subject>
+        <dc:subject>császár</dc:subject>
+        <dc:subject>férfi főszereplő</dc:subject>
+        <dc:subject>halál</dc:subject>
+        <dc:subject>jövőben játszódik</dc:subject>
+        <dc:subject>klasszikus</dc:subject>
+        <dc:subject>klímaváltozás</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>sivatag</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <dc:subject>társadalmi sci-fi</dc:subject>
+        <dc:subject>uralkodó</dc:subject>
+        <dc:subject>űropera</dc:subject>
+        <dc:subject>vallás</dc:subject>
+        <dc:subject>váltott nézőpont</dc:subject>
+        <dc:subject>Young Adult - YA</dc:subject>
+        <dc:subject>Social Issues</dc:subject>
+        <meta name="calibre:series" content="Dűne"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2026-05-17T06:13:42.722640+00:00"/>
+        <meta name="calibre:title_sort" content="Dűne istencsászára, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Dűne istencsászára, A - Frank Herbert.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">500</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8dcd2710-de93-4bc7-9978-5810e73f8660</dc:identifier>
+        <dc:title>A Dűne messiása</dc:title>
+        <dc:creator opf:file-as="Herbert, Frank" opf:role="aut">Frank Herbert</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-14T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-family: 'Rubik','Roboto','Helvetica Neue','Arial','Noto Sans','Liberation Sans','sans-serif'"&gt;&lt;span style="color: #292929; background-color: #ffffff"&gt;Az emberi bolygókat egyesítő Impériumban Paul Muad-Dib, a jövőbe látó messiás uralkodik. Hithű harcosai, a vad fremenek szent dzsihádjukban feldúlták az univerzumot, és mindenhová elvitték a Mahdi szavait. Ám a háború és a vallási fanatizmus ádáz ellenségeket szült, akik mindenüket feláldoznák Muad-Dib bukásáért. Az Impérium régi hatalmai összefognak, hogy egy bonyolult összeesküvéssel törjenek az új Császár életére, aki maga sincs meggyőződve róla, hogy valóban egy jobb világot teremtett az emberiség számára. A Dűne messiásában Frank Herbert továbbviszi a magával ragadó Dűne történetét. Tizenkét évvel az első regény eseményei után a régi és az új világrend csap össze, a középpontban pedig olyan emberek állnak, akiknek minden erejükre szükségük van, hogy megbirkózzanak a rájuk váró sorssal. Herbert lenyűgöző gondolatisága és mély emberismerete emlékezetes karaktereken keresztül mutatja be, hogy sokszor a megváltó maga is lehet áldozat. A szerzőről: Frank Herbert (1920-1986) a modern science fiction egyik legfontosabb szerzője. Első regénye 1956-ban jelent meg, de az igazi sikert az 1965-ben kiadott Dűne hozta meg számára. A könyv több díjat nyert, többször választották a sci-fi legjobbjának, egyetemi tananyagként oktatják, és egyike a legnagyobb hatású regényeknek a zsánerben. Többen próbálkoztak a megfilmesítésével, a legismertebb David Lynch 1984-es mozifilmje, a legújabb pedig Denis Villeneuve rendezésében érkezik 2020-ban. Herbert a Dűnéhez öt folytatást írt, ezeken kívül mintegy másfél tucat regényt publikált önállóan és társszerzőkkel közösen. 2006 óta a Science Fiction Hall of Fame tagja.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>GABO</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789634069041</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">jJSb0AEACAAJ</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">frank-herbert-a-dune-messiasa</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>sci-fi</dc:subject>
+        <dc:subject>alakváltó</dc:subject>
+        <dc:subject>amerikai szerző</dc:subject>
+        <dc:subject>császár</dc:subject>
+        <dc:subject>férfi főszereplő</dc:subject>
+        <dc:subject>jóslás</dc:subject>
+        <dc:subject>jövőben játszódik</dc:subject>
+        <dc:subject>klasszikus</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>politika</dc:subject>
+        <dc:subject>sivatag</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <dc:subject>testvérek</dc:subject>
+        <dc:subject>űropera</dc:subject>
+        <dc:subject>vallás</dc:subject>
+        <dc:subject>váltott nézőpont</dc:subject>
+        <meta name="calibre:series" content="Dűne"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2026-05-17T06:13:42.037035+00:00"/>
+        <meta name="calibre:title_sort" content="Dűne messiása, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Dűne messiása, A - Frank Herbert.jpg"/>
+    </guide>
+</package>

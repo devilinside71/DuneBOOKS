@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">510</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">658e95e7-3ae1-4c07-b001-9aeeebace478</dc:identifier>
+        <dc:title>A Dűne gyermekei</dc:title>
+        <dc:creator opf:file-as="Herbert, Frank" opf:role="aut">Frank Herbert</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2024-05-16T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-family: 'Rubik','Roboto','Helvetica Neue','Arial','Noto Sans','Liberation Sans','sans-serif'"&gt;&lt;span style="color: #292929; background-color: #ffffff"&gt;A Dűne örökre megváltozott. Paul Muad-Dib, a Kwisatz Haderach, a jövőbe látó messiás olyan folyamatokat indított el, amelyek túlnőttek az embereken, és a mindenség legfontosabb helyévé tették az Arrakist. Ám Muad-Dib nincs többé, elnyelte a sivatag mélye. Öröksége azonban tovább él. Paul gyermekei, Leto és Ghanima kénytelenek szembenézni a sorssal, melyet a történelem nekik rendelt. Az Impérium trónjának várományosaiként nemcsak emberek milliárdjai imádják és gyűlölik őket, de a legveszedelmesebb politikai intrikák középpontjában állnak. Mi a terve Aliának, aki Régensként uralja a világegyetemet? Miért tér vissza évtizedes távollét után nagyanyjuk, Lady Jessica az Arrakisra? Kicsoda a titokzatos Prédikátor, aki a Mahdi egyháza és az új világ ellen szónokol? És hogyan változnak meg az erőviszonyok, amikor újra színre lépnek a trónfosztott Corrinók? Az ikreknek és támogatóiknak nemsokára rá kell döbbenniük, hogy az események sokkal nagyobb áldozatot követelnek tőlük, mint amire eddig gondoltak volna. Frank Herbert A Dűne gyermekeiben továbbviszi az Atreides-dinasztia és a magával ragadó sivatagbolygó történetét. A szerző, miközben a társadalmat mozgató erőket vizsgálja, bemutatja azt is, milyen döntésekre kényszerülnek azok, akik milliárdok sorsára lehetnek hatással, és hogy az emberek gyakran olyan tettekre kényszerülnek, melyekért hatalmas árat kell fizetniük.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>GABO</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789635667260</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">frank-herbert-a-dune-gyermekei</dc:identifier>
+        <dc:language>hun</dc:language>
+        <dc:subject>regény</dc:subject>
+        <dc:subject>sci-fi</dc:subject>
+        <dc:subject>amerikai szerző</dc:subject>
+        <dc:subject>család</dc:subject>
+        <dc:subject>filmadaptáció</dc:subject>
+        <dc:subject>gyermek főszereplő</dc:subject>
+        <dc:subject>ikrek</dc:subject>
+        <dc:subject>jövőben játszódik</dc:subject>
+        <dc:subject>klasszikus</dc:subject>
+        <dc:subject>magyar nyelvű</dc:subject>
+        <dc:subject>sorozat része</dc:subject>
+        <dc:subject>társadalmi sci-fi</dc:subject>
+        <dc:subject>társadalomkritika</dc:subject>
+        <dc:subject>testvérek</dc:subject>
+        <dc:subject>űropera</dc:subject>
+        <dc:subject>vallás</dc:subject>
+        <dc:subject>váltott nézőpont</dc:subject>
+        <meta name="calibre:series" content="Dűne"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2026-05-17T06:13:42.478399+00:00"/>
+        <meta name="calibre:title_sort" content="Dűne gyermekei, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Dűne gyermekei, A - Frank Herbert.jpg"/>
+    </guide>
+</package>
