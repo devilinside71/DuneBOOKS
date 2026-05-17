@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3200</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a8329132-d276-4eb5-9bf2-5e6f080b2f7b</dc:identifier>
+        <dc:title>Frank Herbert's Dune Saga Collection: Books 1 - 6</dc:title>
+        <dc:creator opf:file-as="Herbert, Frank" opf:role="aut">Frank Herbert</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-06-02T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;**Perfect for longtime fans and new readers alike—a beautiful trade paperback boxed set of the first six novels in Frank Herbert's Dune Saga. &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;DUNE&lt;/em&gt; IS NOW A MAJOR MOTION PICTURE directed by Denis Villeneuve, starring Timothée Chalamet, Zendaya, Jason Momoa, Rebecca Ferguson, Oscar Isaac, Josh Brolin, Stellan Skarsgård, Dave Bautista, David Dastmalchian, Stephen McKinley Henderson, Chang Chen, Sharon Duncan-Brewster, Charlotte Rampling, and Javier Bardem. &lt;/p&gt;
+&lt;p&gt;In the far future, on a remote planet, an epic adventure awaits. Here are the first six novels of Frank Herbert’s magnificent Dune saga—a triumph of the imagination and one of the bestselling science fiction series of all time. &lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Includes Books 1 - 6: DUNE • DUNE MESSIAH • CHILDREN OF DUNE • GOD EMPEROR OF DUNE • HERETICS OF DUNE • CHAPTERHOUSE: DUNE&lt;/p&gt;
+&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Praise for&lt;/strong&gt; Dune &lt;/p&gt;
+&lt;p&gt;“I know nothing comparable to it except &lt;em&gt;The Lord of the Rings&lt;/em&gt;.”—Arthur C. Clarke &lt;/p&gt;
+&lt;p&gt;“It is possible that &lt;em&gt;Dune&lt;/em&gt; is even more relevant now than when it was first published.”— &lt;em&gt;The New Yorker&lt;/em&gt; &lt;/p&gt;
+&lt;p&gt;“An astonishing science fiction phenomenon.”— &lt;em&gt;The Washington Post&lt;/em&gt; &lt;/p&gt;
+&lt;p&gt;“One of the monuments of modern science fiction.”— &lt;em&gt;Chicago Tribune&lt;/em&gt; &lt;/p&gt;
+&lt;p&gt;“Powerful, convincing, and most ingenious.”—Robert A. Heinlein &lt;/p&gt;
+&lt;p&gt;“Herbert’s creation of this universe, with its intricate development and analysis of ecology, religion, politics and philosophy, remains one of the supreme and seminal achievements in science fiction.”— &lt;em&gt;Louisville Times&lt;/em&gt;&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Frank Herbert&lt;/strong&gt; is the bestselling author of the Dune saga. He was born in Tacoma, Washington, and educated at the University of Washington, Seattle. He worked a wide variety of jobs—including TV cameraman, radio commentator, oyster diver, jungle survival instructor, lay analyst, creative writing teacher, reporter and editor of several West Coast newspapers—before becoming a full-time writer. &lt;/p&gt;
+&lt;p&gt;In 1952, Herbert began publishing science fiction with “Looking for Something?” in &lt;em&gt;Startling Stories&lt;/em&gt;. But his emergence as a writer of major stature did not occur until 1965, with the publication of &lt;em&gt;Dune&lt;/em&gt;. &lt;em&gt;Dune Messiah&lt;/em&gt; , &lt;em&gt;Children of Dune&lt;/em&gt; , &lt;em&gt;God Emperor of Dune&lt;/em&gt; , &lt;em&gt;Heretics of Dune&lt;/em&gt; , and &lt;em&gt;Chapterhouse: Dune&lt;/em&gt; followed, completing the saga that the &lt;em&gt;Chicago Tribune&lt;/em&gt; would call “one of the monuments of modern science fiction.” Herbert is also the author of some twenty other books, including &lt;em&gt;The White Plague&lt;/em&gt; , &lt;em&gt;The Dosadi Experiment&lt;/em&gt; , and &lt;em&gt;Destination: Void&lt;/em&gt;. He died in 1986.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin Publishing Group</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2023-09-14T03:41:26+00:00"/>
+        <meta name="calibre:title_sort" content="Frank Herbert's Dune Saga Collection: Books 1 - 6"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Frank Herbert's Dune Saga Collection_ Books 1 - 6 - Frank Herbert.jpg"/>
+    </guide>
+</package>

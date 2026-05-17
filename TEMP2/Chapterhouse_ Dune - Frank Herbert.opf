@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">531</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">292d3a96-c0d2-4aa8-afb4-a991d32b4bc4</dc:identifier>
+        <dc:title>Chapterhouse: Dune</dc:title>
+        <dc:creator opf:file-as="Herbert, Frank" opf:role="aut">Frank Herbert</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1986-03-31T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Frank Herbert's Final Novel in the Magnificent Dune Chronicles—the Bestselling Science Fiction Adventure of All Time&lt;/p&gt;
+&lt;p&gt;The desert planet Arrakis, called Dune, has been destroyed. The remnants of the Old Empire have been consumed by the violent matriarchal cult known as the Honored Matres. Only one faction remains a viable threat to their total conquest—the Bene Gesserit, heirs to Dune’s power.&lt;/p&gt;
+&lt;p&gt;Under the leadership of Mother Superior Darwi Odrade, the Bene Gesserit have colonized a green world on the planet Chapterhouse and are turning it into a desert, mile by scorched mile. And once they’ve mastered breeding sandworms, the Sisterhood will control the production of the greatest commodity in the known galaxy—the spice melange. But their true weapon remains a man who has lived countless lifetimes—a man who served under the God Emperor Paul Muad’Dib....&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781473233812</dc:identifier>
+        <dc:identifier opf:scheme="FICTIONDB">chapterhouse-dune~frank-herbert~100070</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">Y_-8cyQV-OMC</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">frank-herbert-chapterhouse-dune</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Speculative Fiction</dc:subject>
+        <meta name="calibre:series" content="Dune"/>
+        <meta name="calibre:series_index" content="6"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2026-05-17T19:00:45.170529+00:00"/>
+        <meta name="calibre:title_sort" content="Chapterhouse: Dune"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Chapterhouse_ Dune - Frank Herbert.jpg"/>
+    </guide>
+</package>

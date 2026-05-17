@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">530</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e14afb0f-aff6-4e93-aa26-2a63a3d3cdf9</dc:identifier>
+        <dc:title>Heretics of Dune</dc:title>
+        <dc:creator opf:file-as="Herbert, Frank" opf:role="aut">Frank Herbert</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1985-03-31T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Book Five in the Magnificent Dune Chronicles—the Bestselling Science Fiction Adventure of All Time&lt;/p&gt;
+&lt;p&gt;Leto Atreides, the God Emperor of Dune, is dead. In the fifteen hundred years since his passing, the Empire has fallen into ruin. The great Scattering saw millions abandon the crumbling civilization and spread out beyond the reaches of known space. The planet Arrakis—now called Rakis—has reverted to its desert climate, and its great sandworms are dying.&lt;/p&gt;
+&lt;p&gt;Now the Lost Ones are returning home in pursuit of power. And as these factions vie for control over the remnants of the Empire, a girl named Sheeana rises to prominence in the wastelands of Rakis, sending religious fervor throughout the galaxy. For she possesses the abilities of the Fremen sandriders—fulfilling a prophecy foretold by the late God Emperor....&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Penguin</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781473233799</dc:identifier>
+        <dc:identifier opf:scheme="FICTIONDB">heretics-of-dune~frank-herbert~116219</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">RHLQWg98NyoC</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">frank-herbert-heretics-of-dune</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Speculative Fiction</dc:subject>
+        <meta name="calibre:series" content="Dune"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2026-05-17T18:48:49.459688+00:00"/>
+        <meta name="calibre:title_sort" content="Heretics of Dune"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Heretics of Dune - Frank Herbert.jpg"/>
+    </guide>
+</package>
