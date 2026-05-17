@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3274</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">78f802c1-0129-4bf8-a9dd-5ab7020c912c</dc:identifier>
+        <dc:title>Frank Herbert's Dune Saga Collection</dc:title>
+        <dc:creator opf:file-as="Herbert, Frank" opf:role="aut">Frank Herbert</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-11-06T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Perfect for longtime fans and new readers alike—this eBook collection includes all six original novels in the Dune Saga written by Frank Herbert.&lt;/p&gt;
+&lt;p&gt;In the far future, on a remote planet, an epic adventure awaits. Here are the first six novels of Frank Herbert’s magnificent Dune saga—a triumph of the imagination and one of the bestselling science fiction series of all time.&lt;/p&gt;
+&lt;p&gt;The Dune Saga begins on the desert planet Arrakis with the story of the boy Paul Atreides—who would become known as Muad’Dib—and of a great family’s ambition to bring to fruition humankind’s most ancient and unattainable dream....&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Includes Books 1 - 6: DUNE • DUNE MESSIAH • CHILDREN OF DUNE • GOD EMPEROR OF DUNE • HERETICS OF DUNE • CHAPTERHOUSE: DUNE&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>ACE</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">53750651</dc:identifier>
+        <dc:identifier opf:scheme="ASIN">B088QLJGZC</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">iAblDwAAQBAJ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780593333020</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Classics</dc:subject>
+        <dc:subject>Religion</dc:subject>
+        <dc:subject>DRM</dc:subject>
+        <meta name="calibre:series" content="Dune"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2026-05-15T03:25:43+00:00"/>
+        <meta name="calibre:title_sort" content="Frank Herbert's Dune Saga Collection"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Frank Herbert's Dune Saga Collection - Frank Herbert.jpg"/>
+    </guide>
+</package>
