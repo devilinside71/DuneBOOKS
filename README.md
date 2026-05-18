@@ -31,8 +31,8 @@ to
 <p class="part_title">\1</p><br />
 
 
-
-
+<p\b[^>]*>\s*<a\b[^>]*>(.*?)</a>\s*</p>
+<p class="part_title">\1</p>
 
 
 
