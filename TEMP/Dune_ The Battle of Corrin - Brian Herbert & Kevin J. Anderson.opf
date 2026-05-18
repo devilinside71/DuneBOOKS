@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">540</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f4a7d919-081e-4c6f-8cef-668042f8ec36</dc:identifier>
+        <dc:title>Dune: The Battle of Corrin</dc:title>
+        <dc:creator opf:file-as="Herbert, Brian &amp; Anderson, Kevin J." opf:role="aut">Brian Herbert</dc:creator>
+        <dc:creator opf:file-as="Herbert, Brian &amp; Anderson, Kevin J." opf:role="aut">Kevin J. Anderson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-04-01T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Frank Herbert's &lt;em&gt;Dune&lt;/em&gt; series is one of the grandest epics in the annals of imaginative literature. Selling millions of copies worldwide, it is science fiction's answer to The Lord of the Rings, a brilliantly imaginative epic of high adventure, unforgettable characters, and immense scope.&lt;/p&gt;
+&lt;p&gt;It has been fifty-six hard years since the events of &lt;em&gt;The Machine Crusade&lt;/em&gt;. Following the death of Serena Butler, the bloodiest decades of the Jihad take place. Synchronized Worlds and Unallied Planets are liberated one by one, and at long last, after years of victory, the human worlds begin to hope that the end of the centuries-long conflict with the thinking machines is finally in sight.&lt;/p&gt;
+&lt;p&gt;Unfortunately, Omnius has one last, deadly card to play. In a last-ditch effort to destroy humankind, virulent plagues are let loose throughout the galaxy, decimating the populations of whole planets . . . and once again, the tide of the titanic struggle shifts against the warriors of the human race. At last, the war that has lasted many lifetimes will be decided in the apocalyptic Battle of Corrin.&lt;/p&gt;
+&lt;p&gt;In the greatest battle in science fiction history, human and machine face off one last time. . . . And on the desert planet of Arrakis, the legendary Fremen become the feared fighting force to be discovered by Paul Muad'Dib in Frank Herbert's classic, &lt;em&gt;Dune&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Tor Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781429975377</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Space Opera</dc:subject>
+        <dc:subject>Science Fiction &amp; Fantasy</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <meta name="calibre:series" content="Dune: Legends, Heroes, Schools"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2026-05-17T19:24:21.699096+00:00"/>
+        <meta name="calibre:title_sort" content="Dune: The Battle of Corrin"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Dune_ The Battle of Corrin - Brian Herbert &amp; Kevin J. Anderson.jpg"/>
+    </guide>
+</package>

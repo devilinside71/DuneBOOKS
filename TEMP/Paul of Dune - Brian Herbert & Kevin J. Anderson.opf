@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">541</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5e2de141-6ab2-4147-98a0-f8d6f7f7296d</dc:identifier>
+        <dc:title>Paul of Dune</dc:title>
+        <dc:creator opf:file-as="Herbert, Brian &amp; Anderson, Kevin J." opf:role="aut">Brian Herbert</dc:creator>
+        <dc:creator opf:file-as="Herbert, Brian &amp; Anderson, Kevin J." opf:role="aut">Kevin J. Anderson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-09-15T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: bold"&gt;Frank Herbert's Dune series is one of the grandest epics in the annals of imaginative literature. Selling millions of copies worldwide, the series is science fiction's answer to &lt;em&gt;The Lord of the Rings&lt;/em&gt;, a brilliantly imaginative epic of high adventure, unforgettable characters, and immense scope.&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;Set between Frank Herbert's &lt;em&gt;Dune&lt;/em&gt; and &lt;em&gt;Dune Messiah&lt;/em&gt;, Brian Herbert and Kevin J. Anderson's &lt;em&gt;Paul of Dune&lt;/em&gt; explores the Maud'Dib's evolution from savior to emperor to tyrant.&lt;/p&gt;
+&lt;p style="font-weight: bold"&gt;A must-read before the events of &lt;em&gt;Dune Messiah!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;At the conclusion of &lt;em&gt;DUNE&lt;/em&gt;, Paul “Muad’Dib” Atreides gathered his Fremen warriors and embarked on a great prophecy-driven jihad that will sweep across the Imperium.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Paul of Dune&lt;/em&gt; is the epic story of that struggle: the planet-spanning battles, the breathtaking discoveries, the bloody treacheries. As the Fremen legions march from victory to victory, far from their beloved desert homeworld of Dune, Paul’s rule becomes harsher. Betrayals harden his spirit, old allies become enemies, and the Bene Gesserit Sisterhood and the remnants of Shaddam’s Imperium work to bring about his downfall.&lt;/p&gt;
+&lt;p&gt;And Paul himself begins to have doubts: Is the jihad getting out of his control? Has he created anarchy? Has he been betrayed by those he loves and trusts the most? He must rely on his beloved Chani, his loyal friend Gurney Halleck, and his mother Jessica and sister Alia to survive.&lt;/p&gt;
+&lt;p&gt;At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Tor Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781429954723</dc:identifier>
+        <dc:identifier opf:scheme="MOLY_HU">brian-herbert-kevin-j-anderson-paul-of-dune</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Space Opera</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Science Fiction &amp; Fantasy</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <meta name="calibre:series" content="Dune: Legends, Heroes, Schools"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:timestamp" content="2026-05-17T19:24:21.702685+00:00"/>
+        <meta name="calibre:title_sort" content="Paul of Dune"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Paul of Dune - Brian Herbert &amp; Kevin J. Anderson.jpg"/>
+    </guide>
+</package>

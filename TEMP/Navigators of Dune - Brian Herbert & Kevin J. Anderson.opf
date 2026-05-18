@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">545</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b048aea3-5199-4330-b1f7-8cab3793ef57</dc:identifier>
+        <dc:title>Navigators of Dune</dc:title>
+        <dc:creator opf:file-as="Herbert, Brian &amp; Anderson, Kevin J." opf:role="aut">Brian Herbert</dc:creator>
+        <dc:creator opf:file-as="Herbert, Brian &amp; Anderson, Kevin J." opf:role="aut">Kevin J. Anderson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-08-31T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Brian Herbert and Kevin J. Anderson's Navigators of Dune is the climactic finale of the Great Schools of Dune trilogy, set 10,000 years before Frank Herbert's classic Dune.&lt;/p&gt;
+&lt;p&gt;The story line tells the origins of the Bene Gesserit Sisterhood and its breeding program, the human-computer Mentats, and the Navigators (the Spacing Guild), as well as a crucial battle for the future of the human race, in which reason faces off against fanaticism. These events have far-reaching consequences that will set the stage for Dune, millennia later.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Tor</dc:publisher>
+        <dc:identifier opf:scheme="FICTIONDB">navigators-of-dune~brian-herbert-kevin-j-anderson~1340602</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Speculative Fiction</dc:subject>
+        <meta name="calibre:series" content="Dune: Legends, Heroes, Schools"/>
+        <meta name="calibre:series_index" content="8"/>
+        <meta name="calibre:timestamp" content="2026-05-17T19:29:18.691266+00:00"/>
+        <meta name="calibre:title_sort" content="Navigators of Dune"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Navigators of Dune - Brian Herbert &amp; Kevin J. Anderson.jpg"/>
+    </guide>
+</package>

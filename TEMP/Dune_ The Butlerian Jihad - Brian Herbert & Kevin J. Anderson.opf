@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">538</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6dfc7ece-be95-4a9a-9ca4-907cc9132006</dc:identifier>
+        <dc:title>Dune: The Butlerian Jihad</dc:title>
+        <dc:creator opf:file-as="Herbert, Brian &amp; Anderson, Kevin J." opf:role="aut">Brian Herbert</dc:creator>
+        <dc:creator opf:file-as="Herbert, Brian &amp; Anderson, Kevin J." opf:role="aut">Kevin J. Anderson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.8.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-01T22:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Frank Herbert's &lt;em&gt;Dune&lt;/em&gt; series is one of the grandest epics in the annals of imaginative literature. Selling millions of copies worldwide, it is science fiction's answer to T&lt;em&gt;he Lord of the Rings&lt;/em&gt;, a brilliantly imaginative epic of high adventure, unforgettable characters, and immense scope.&lt;/p&gt;
+&lt;p&gt;Decades after Herbert's original novels, the Dune saga was continued by Frank Herbert's son, Brian Herbert, an acclaimed SF novelist in his own right, in collaboration with Kevin J. Anderson. Their &lt;em&gt;New York Times&lt;/em&gt; bestselling trilogy, &lt;em&gt;Dune: House Atreides, Dune: House Harkonnen,&lt;/em&gt; and &lt;em&gt;Dune: House Corrino&lt;/em&gt;, formed a prequel to the classic Herbert series that was acclaimed by reviewers and readers alike. Now Herbert and Anderson, working from Frank Herbert's own notes, reveal a pivotal epoch in the history of the Dune universe, the chapter of the saga most eagerly anticipated by readers: &lt;em&gt;The Butlerian Jihad.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Throughout the Dune novels, Frank Herbert frequently referred to the long-ago war in which humans wrested their freedom from "thinking machines." Now, in Dune: Butlerian Jihad, Brian Herbert and Kevin J. Anderson bring to life the story of that war, a tale previously seen only in tantalizing hints and clues. Finally, we see how Serena Butler's passionate grief ignites the war that will liberate humans from their machine masters. We learn the circumstances of the betrayal that made mortal enemies of House Atreides and House Harkonnen; and we experience the Battle of Corrin that created a galactic empire that lasted until the reign of Emperor Shaddam IV.&lt;/p&gt;
+&lt;p&gt;Herein are the foundations of the Bene Gesserit Sisterhood, the Suk Doctors, the Order of Mentats, and the mysteriously altered Navigators of the Spacing Guild. Here is the amazing tale of the Zensunni Wanderers, who escape bondage to flee to the desert world where they will declare themselves the Free Men of Dune. And here is the backward, nearly forgotten planet of Arrakis, where traders have discovered the remarkable properties of the spice melange . . . .&lt;/p&gt;
+&lt;p&gt;Ten thousand years before the events of Dune, humans have managed to battle the remorseless Machines to a standstill . . . but victory may be short-lived. Yet amid shortsighted squabbling between nobles, new leaders have begun to emerge. Among them are Xavier Harkonnen, military leader of the Planet of Salusa Secundus; Xavier's fiancée, Serena Butler, an activist who will become the unwilling leader of millions; and Tio Holtzman, the scientist struggling to devise a weapon that will help the human cause. Against the brute efficiency of their adversaries, these leaders and the human race have only imagination, compassion, and the capacity for love. It will have to be enough.&lt;/p&gt;
+&lt;p&gt;At the Publisher's request, this title is being sold without Digital Rights Management Software (DRM) applied.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Tor Publishing Group</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781429955904</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science Fiction &amp; Fantasy</dc:subject>
+        <dc:subject>Space Opera</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <meta name="calibre:series" content="Dune: Legends, Heroes, Schools"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="2026-05-17T19:24:21.689412+00:00"/>
+        <meta name="calibre:title_sort" content="Dune: The Butlerian Jihad"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="Dune_ The Butlerian Jihad - Brian Herbert &amp; Kevin J. Anderson.jpg"/>
+    </guide>
+</package>
