@@ -1,5 +1,11 @@
 # DuneBOOKS
 
+
+## Sigil version
+
+Old good: 2.6.0
+
+
 ## TODO
 
 Angol gyűjtemények bontása könyvekre
