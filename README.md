@@ -8,11 +8,16 @@ Old good: 2.6.0
 
 ## TODO
 
-Angol gyűjtemények bontása könyvekre
+Új Angol könyvek
+
+
 
 Magyar megcsinálás
 
-Sigil Regex
+
+
+## Sigil Regex
+
 convert
 <h2 ...><a ...>TEXT</a></h2>
 to
